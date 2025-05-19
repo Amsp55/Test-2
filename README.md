@@ -17,12 +17,11 @@ A Django middleware implementation that provides IP-based rate limiting function
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone <your-repository-url>
-cd <repository-directory>
+1. Unzip and open folder:
 
 2. Create and activate a virtual environment:
+python -m venv venv
+.\venv\Scripts\activate
 
 3. Install dependencies:
 pip install -r requirements.txt
